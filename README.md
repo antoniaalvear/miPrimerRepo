@@ -2,5 +2,5 @@
 
 ## _hola gente_
 ### wow
-##### pequeño
+##### los gatos son para hacerlos chiquititos
 ###### *chiquito*
