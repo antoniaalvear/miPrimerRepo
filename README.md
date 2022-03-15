@@ -1,6 +1,6 @@
 # miPrimerRepo
 
-## hola gente 
+## _hola gente_
 ### wow
 ##### pequeño
 ###### *chiquito*
